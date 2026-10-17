@@ -1,0 +1,21 @@
+TITLE:
+AI's Power Problem: Who Pays for the Electricity?
+
+DURATION: 07:01
+
+DESCRIPTION:
+In 1979, Three Mile Island became the worst nuclear accident in American history. Now a reactor at the same site is being brought back to life — to power Microsoft's data centers.
+
+In this video: how much electricity AI really uses (the IEA's latest numbers), why AI chips are so power-hungry, the gigawatt campuses being built in Louisiana and Memphis, the nuclear deals from Microsoft and Google, and the grid auction that is pushing up power bills for 65 million Americans. At the end, three things to watch.
+
+Information as of October 17, 2026. Sources: International Energy Agency, Lawrence Berkeley National Laboratory, PJM Interconnection, U.S. Energy Information Administration, Constellation Energy, Kairos Power.
+
+00:00 Prologue: The Reactor Comes Back
+00:58 Chapter 1: The Number
+01:56 Chapter 2: Why AI Is So Hungry
+03:02 Chapter 3: The Gigawatt Campuses
+04:23 Chapter 4: Who Pays?
+06:02 Chapter 5: What to Watch
+
+
+#AI #AIEnergy #DataCenters #PowerGrid #Electricity #ThreeMileIsland #NuclearPower #Microsoft #Meta #xAI #Google #PJM #ElectricityBills #ClimateTech #Explained #TechExplained #Documentary #TheCatalyst
